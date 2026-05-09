@@ -1,0 +1,4 @@
+ls
+git clone
+cd
+mkdir
