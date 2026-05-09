@@ -1,0 +1,3 @@
+REPOSITORIO: Es una carpeta que guarada todos tus proyectos o carpetas, los cambios quedan registrados y pueden estar desde un computador o un celular 
+COMMIT: Escuando utilizamos el commit guardamos todos los cambios realizados  en tu repositorio 
+PUSH: Mediante esta accion se suben los commitr desde el repositorio local al repositorio remoto  esto publica todos los cambios 
