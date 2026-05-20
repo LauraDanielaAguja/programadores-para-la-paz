@@ -1,0 +1,8 @@
+Es fundamental que las comunidades construyan sus propias herramientas tecnológicas con Node.js.
+Al utilizar tecnologías abiertas, no dependen de licencias costosas ni de grandes corporaciones.
+Esto permite adaptar los sistemas exactamente a las necesidades reales de los ciudadanos.
+Además, se fomenta el aprendizaje colaborativo y la soberanía tecnológica local.
+Las soluciones se vuelven más accesibles para sectores vulnerables o independientes.
+Permite automatizar procesos comunitarios sin gastar dinero en software privado.
+Cualquier persona puede revisar el código, mejorarlo y asegurar que sus datos estén seguros.
+Así se crean proyectos sostenibles a largo plazo impulsados por la misma comunidad.
