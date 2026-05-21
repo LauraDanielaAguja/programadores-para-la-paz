@@ -1,0 +1,5 @@
+http://localhost:3000 -> Al entrar muestra el mensaje "Servidor activo" en el navegador. Esta es la ruta principal o raíz del servidor.
+
+http://localhost:3000/saludo -> Al entrar muestra el mensaje "Hola comunidad". Es una respuesta estática de texto plano configurada en el backend.
+
+http://localhost:3000/mensaje/laura -> Al entrar muestra "Hola laura". El servidor toma la palabra que escribo al final de la URL como un parámetro dinámico (req.params.nombre) y la concatena automáticamente para personalizar el saludo en pantalla.

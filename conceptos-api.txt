@@ -1,0 +1,6 @@
+¿Qué hace esta ruta?
+Básicamente recibe los datos que manda el usuario bien guardados y ocultos usando el método POST. El servidor los procesa y responde mandando una confirmación de que el reporte llegó bien, junto con el mismo mensaje en un formato JSON.
+
+¿Para qué serviría en una aplicación comunitaria?
+Serviría muchísimo para que los vecinos puedan reportar emergencias, baches en las calles o fallas de luz de forma segura, sin que sus datos queden a la vista de cualquiera en la barra del navegador.
+
